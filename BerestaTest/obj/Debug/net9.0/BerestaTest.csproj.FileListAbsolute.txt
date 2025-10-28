@@ -1,0 +1,14 @@
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\bin\Debug\net9.0\BerestaTest.exe
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\bin\Debug\net9.0\BerestaTest.deps.json
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\bin\Debug\net9.0\BerestaTest.runtimeconfig.json
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\bin\Debug\net9.0\BerestaTest.dll
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\bin\Debug\net9.0\BerestaTest.pdb
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.AssemblyInfoInputs.cache
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.AssemblyInfo.cs
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.csproj.CoreCompileInputs.cache
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.dll
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\refint\BerestaTest.dll
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.pdb
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\BerestaTest.genruntimeconfig.cache
+A:\Programming\Projects\RiderProjects\BerestaTest\BerestaTest\obj\Debug\net9.0\ref\BerestaTest.dll
